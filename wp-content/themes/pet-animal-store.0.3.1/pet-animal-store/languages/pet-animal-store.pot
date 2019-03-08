@@ -1,0 +1,441 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pet Animal Store\n"
+"Last-Translator: \n"
+"Language-Team:ThemesCaliber <support@themescaliber.com>\n"
+"Language: English\n"
+"MIME-Version: 0.1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: 404.php:12
+msgid '404 Not Found'
+msgstr ""
+
+#: 404.php:13
+msgid 'Looks like you have taken a wrong turn&hellip;'
+msgstr ""
+
+#: 404.php:14
+#: no-results.php:22
+msgid 'Don\'t worry &hellip it happens to the best of us.'
+msgstr ""
+
+#: 404.php:16
+msgid 'Return to Home Page'
+msgstr ""
+
+#: archive.php:42
+#: archive.php:78
+#: archive.php:113
+#: archive.php:148
+#: archive.php:185
+#: archive.php:222
+#: index.php:43
+#: index.php:75
+#: index.php:106
+#: index.php:137
+#: index.php:170
+#: index.php:202
+#: search.php:38
+#: search.php:71
+#: search.php:103
+#: search.php:135
+#: search.php:169
+#: search.php:203
+#: single.php:57
+#: single.php:104
+#: single.php:154
+#: single.php:204
+#: single.php:254
+#: single.php:304
+msgid 'Previous page'
+msgstr ""
+
+#: archive.php:43
+#: archive.php:79
+#: archive.php:114
+#: archive.php:149
+#: archive.php:186
+#: archive.php:223
+#: index.php:44
+#: index.php:76
+#: index.php:107
+#: index.php:138
+#: index.php:171
+#: index.php:203
+#: search.php:39
+#: search.php:72
+#: search.php:104
+#: search.php:136
+#: search.php:170
+#: search.php:204
+#: single.php:55
+#: single.php:106
+#: single.php:155
+#: single.php:210
+#: single.php:263
+#: single.php:316
+msgid 'Next page'
+msgstr ""
+
+#: archive.php:44
+#: archive.php:80
+#: archive.php:115
+#: archive.php:150
+#: archive.php:187
+#: archive.php:224
+#: index.php:45
+#: index.php:77
+#: index.php:108
+#: index.php:139
+#: index.php:172
+#: index.php:204
+#: search.php:40
+#: search.php:73
+#: search.php:105
+#: search.php:137
+#: search.php:171
+#: search.php:205
+#: single.php:40
+#: single.php:91
+#: single.php:143
+#: single.php:195
+#: single.php:248
+#: single.php:301
+msgid 'Page'
+msgstr ""
+
+#: comments.php:30
+msgid "comments title"
+msgstr ""
+
+#: comments.php:55
+msgid "'Comments are closed."
+msgstr ""
+
+#: footer.php:31
+msgid 'Pets Store WordPress Themes By'
+msgstr ""
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:64
+msgid 'Thank You!!!!!'
+msgstr ""
+
+#: functions.php:65
+msgid 'Much grateful to you for choosing our pets theme from themescaliber. we praise you for opting our services over others. we are obliged to invite you on our welcome page to render you with our outstanding services.'
+msgstr ""
+
+#: functions.php:66
+msgid 'Click Here...'
+msgstr ""
+
+#: functions.php:73
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:74
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:83
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:84
+#: functions.php:94
+msgid 'Appears on page sidebar'
+msgstr ""
+
+#: functions.php:93
+msgid "Third Column Sidebar"
+msgstr ""
+
+#: functions.php:103
+msgid 'Footer Nav 1'
+msgstr ""
+
+#: functions.php:113
+msgid 'Footer Nav 2'
+msgstr ""
+
+#: functions.php:123
+msgid 'Footer Nav 3'
+msgstr ""
+
+#: functions.php:133
+msgid 'Footer Nav 4'
+msgstr ""
+
+#: functions.php:104
+#: functions.php:114
+#: functions.php:124
+#: functions.php:134
+msgid "Appears on footer"
+msgstr ""
+
+#: functions.php:206
+msgid 'ThemesCaliber'
+msgstr ""
+
+#: header.php:22
+msgid 'Menu'
+msgstr ""
+
+#: header.php:57
+msgid 'EMAIL'
+msgstr ""
+
+#: header.php:59
+msgid 'support@example.com'
+msgstr ""
+
+#: header.php:63
+msgid 'CALL NOW'
+msgstr ""
+
+#: header.php:97
+msgid 'placeholder'
+msgstr ""
+
+#: header.php:97
+msgid 'label'
+msgstr ""
+
+#: image.php:36
+#: image.php:72
+#: image.php:107
+#: image.php:142
+#: image.php:180
+#: image.php:218
+#: page.php:25
+#: single.php:36
+#: single.php:87
+#: single.php:139
+#: single.php:191
+#: single.php:244
+#: single.php:297
+#: page-template/page-with-left-sidebar:21
+#: page-template/page-with-right-sidebar:18
+msgid 'Pages:'
+msgstr ""
+
+#: image.php:41
+#: image.php:77
+#: image.php:112
+#: image.php:147
+#: image.php:185
+#: image.php:223
+msgid 'Edit'
+msgstr ""
+
+#: no-results.php:12
+msgid 'Nothing Found'
+msgstr ""
+
+#: no-results.php:17
+msgid 'Ready to publish your first post? Get started here.'
+msgstr ""
+
+#: no-results.php:19
+msgid 'Sorry, but nothing matched your search terms. Please try again with some different keywords.'
+msgstr ""
+
+#: no-results.php:24
+msgid 'Back to Home Page'
+msgstr ""
+
+#: searchform.php:10
+msgid 'placeholder'
+msgstr ""
+
+#: searchform.php:12
+msgid 'submit button'
+msgstr ""
+
+#: sidebar.php:12
+msgid 'Archives'
+msgstr ""
+
+#: sidebar.php:18
+msgid 'Meta'
+msgstr ""
+
+#: single.php:56
+#: single.php:107
+#: single.php:159
+#: single.php:211
+#: single.php:264
+#: single.php:317
+msgid 'Next post:'
+msgstr ""
+
+#: single.php:59
+#: single.php:110
+#: single.php:162
+#: single.php:214
+#: single.php:267
+#: single.php:320
+msgid 'Previous post:'
+msgstr ""
+
+#: single.php:22
+#: single.php:74
+#: single.php:125
+#: single.php:177
+#: single.php:231
+#: single.php:284
+msgid '0 Comments'
+msgstr ""
+
+#: single.php:50
+#: single.php:101
+#: single.php:153
+#: single.php:205
+#: single.php:258
+#: single.php:311
+msgid 'Parent post link'
+msgstr ""
+
+#: page-template/custom-frontage.php:59
+msgid 'Learn More'
+msgstr ""
+
+#: page-template/custom-frontage.php:79
+msgid 'PET SUPPLIES'
+msgstr ""
+
+#: template-parts/content-audio.php:44
+#: template-parts/content-gallery.php:31
+#: template-parts/content-image.php:23
+#: template-parts/content-video.php:43
+#: template-parts/content.php:23
+#: template-parts/grid-layout:24
+msgid 'Read More'
+msgstr ""
+
+#: inc/customizer.php:20
+msgid 'Theme Settings'
+msgstr ""
+
+#: inc/customizer.php:21
+msgid 'Description of what this panel does.'
+msgstr ""
+
+#: inc/customizer.php:26
+msgid 'Theme Layout Settings'
+msgstr ""
+
+#: inc/customizer.php:33
+#: inc/customizer.php:45
+msgid 'Right Sidebar'
+msgstr ""
+
+#: inc/customizer.php:41
+msgid 'Do you want this section'
+msgstr ""
+
+#: inc/customizer.php:44
+msgid 'Left Sidebar'
+msgstr ""
+
+#: inc/customizer.php:46
+msgid 'One Column'
+msgstr ""
+
+#: inc/customizer.php:47
+msgid 'Three Columns'
+msgstr ""
+
+#: inc/customizer.php:48
+msgid 'Four Columns'
+msgstr ""
+
+#: inc/customizer.php:49
+msgid 'Grid Layout'
+msgstr ""
+
+#: inc/customizer.php:56
+msgid 'Top Header'
+msgstr ""
+
+#: inc/customizer.php:68
+msgid 'Email'
+msgstr ""
+
+#: inc/customizer.php:80
+msgid 'Phone'
+msgstr ""
+
+#: inc/customizer.php:57
+#: inc/customizer.php:89
+msgid 'Add Header Content here'
+msgstr ""
+
+#: inc/customizer.php:88
+msgid 'Social Icon Section'
+msgstr ""
+
+#: inc/customizer.php:100
+msgid 'Add Youtube link'
+msgstr ""
+
+#: inc/customizer.php:112
+msgid 'Add Facebook link'
+msgstr ""
+
+#: inc/customizer.php:124
+msgid 'Add Twitter link'
+msgstr ""
+
+#: inc/customizer.php:136
+msgid 'Add RSS link'
+msgstr ""
+
+#: inc/customizer.php:144
+msgid 'Slider Settings.'
+msgstr ""
+
+#: inc/customizer.php:158
+msgid 'Select Slide Image Page'
+msgstr ""
+
+#: inc/customizer.php:167
+msgid 'Featured Products'
+msgstr ""
+
+#: inc/customizer.php:168
+msgid 'This section will appear below the slider.'
+msgstr ""
+
+#: inc/customizer.php:178
+msgid 'Section Title'
+msgstr ""
+
+#: inc/customizer.php:191
+msgid 'Select Product Page
+msgstr ""
+
+#: inc/customizer.php:199
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer.php:211
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:295
+msgid "Pet Animal Store"
+msgstr ""
+
+#: inc/customizer.php:296
+msgid "Go Pro"
+msgstr ""

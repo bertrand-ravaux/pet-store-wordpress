@@ -1,0 +1,55 @@
+Version 0.1
+	-- Initial Version Released
+
+Version 0.2
+	-- Added the css for navigation sub menu.
+	-- Added documentation to setup home page.
+	-- Tested theme upto WordPress version 4.9.2.
+	-- Done the changes in function.php file.
+	-- Done the text to url changes in customizer.php file.
+
+Version 0.2.1
+	-- Done the css customization in sidebar.
+	-- Add the license for pexel image.
+	-- Improve the theme responsiveness.
+	-- Added the changelog versions in changelog.txt file.
+
+Version 0.2.2
+	-- Done the search css in responsive.
+	-- Change the font url code in function.php file.
+	-- solved the translation error.
+
+Version 0.2.3
+	-- Updated the Woocommerce files and style all woocommerce pages.
+	-- Updated fontawesome file.
+	-- Added the title code in search.php and archive.php files.
+	-- Done the styling for overlapping header menu on page title.
+
+Version 0.2.4
+	-- Removed the unused images from image folder.
+	-- Done scripts in one file and delete other unused files.
+
+Version 0.2.5
+	-- Added esc_attr_e in title.
+	-- Added post format tag.
+
+Version 0.2.6
+	-- Update bootstrap.
+	-- Added the get_search_form(); instead of hardcode.
+	-- Added post format files and done the changes in template-part folder.
+	-- update the translation file in language folder.
+	-- Removed the unused css.
+
+Version 0.2.7
+	-- Added color and font pallete.
+	-- Resolved theme errors.
+
+Version 0.3
+	-- Resolved theme error.
+
+Version 0.3.1
+	-- Changed slider.
+	-- Resolved theme errors.
+	-- Changed theme screenshot.
+	-- Changed image urls.
+	-- Updated woocommerce css.
